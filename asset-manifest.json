@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-countries/static/css/main.e1ca27c2.chunk.css",
+    "main.js": "/react-countries/static/js/main.4dc85ef0.chunk.js",
+    "main.js.map": "/react-countries/static/js/main.4dc85ef0.chunk.js.map",
+    "runtime-main.js": "/react-countries/static/js/runtime-main.2634036a.js",
+    "runtime-main.js.map": "/react-countries/static/js/runtime-main.2634036a.js.map",
+    "static/css/2.4a5a598b.chunk.css": "/react-countries/static/css/2.4a5a598b.chunk.css",
+    "static/js/2.ccb2bd77.chunk.js": "/react-countries/static/js/2.ccb2bd77.chunk.js",
+    "static/js/2.ccb2bd77.chunk.js.map": "/react-countries/static/js/2.ccb2bd77.chunk.js.map",
+    "index.html": "/react-countries/index.html",
+    "static/css/2.4a5a598b.chunk.css.map": "/react-countries/static/css/2.4a5a598b.chunk.css.map",
+    "static/css/main.e1ca27c2.chunk.css.map": "/react-countries/static/css/main.e1ca27c2.chunk.css.map",
+    "static/js/2.ccb2bd77.chunk.js.LICENSE.txt": "/react-countries/static/js/2.ccb2bd77.chunk.js.LICENSE.txt",
+    "static/media/not-found-dark.ca2f4275.png": "/react-countries/static/media/not-found-dark.ca2f4275.png",
+    "static/media/not-found-light.438399ab.png": "/react-countries/static/media/not-found-light.438399ab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2634036a.js",
+    "static/css/2.4a5a598b.chunk.css",
+    "static/js/2.ccb2bd77.chunk.js",
+    "static/css/main.e1ca27c2.chunk.css",
+    "static/js/main.4dc85ef0.chunk.js"
+  ]
+}
