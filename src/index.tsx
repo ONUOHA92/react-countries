@@ -14,7 +14,7 @@ const node = document.getElementById('root');
 render(
   <StrictMode>
     <Provider store={store}>
-      <Router>
+      <Router basename="/react-countries/">
         <App />
       </Router>
     </Provider>
