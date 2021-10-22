@@ -15,7 +15,7 @@ export const CountryBorderCountries: React.FC<ICountryBorderCountriesProps> = ({
     isError,
   } = countriesApi.useGetBordersQuery(borders);
 
-  if (isError && borders.length) {
+  if (isError && !borders.length) {
     return (
       <styles.Container>
         <styles.ErrorMessageText>
