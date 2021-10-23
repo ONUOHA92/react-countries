@@ -9,21 +9,8 @@ interface ICountryBorderCountriesProps {
 export const CountryBorderCountries: React.FC<ICountryBorderCountriesProps> = ({
   borders,
 }) => {
-  const {
-    data: countries,
-    isLoading,
-    isError,
-  } = countriesApi.useGetBordersQuery(borders);
-
-  if (isError && !borders.length) {
-    return (
-      <styles.Container>
-        <styles.ErrorMessageText>
-          We cannot display border countries :(
-        </styles.ErrorMessageText>
-      </styles.Container>
-    );
-  }
+  const { data: countries, isLoading } =
+    countriesApi.useGetBordersQuery(borders);
 
   return (
     <>

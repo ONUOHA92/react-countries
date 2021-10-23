@@ -41,9 +41,6 @@ const CountryLink = styled(Link).attrs<{ to: string }>((props) => ({
 `;
 
 const ErrorMessageText = styled.p`
-  width: 600px;
-  margin: auto;
-  margin-top: 100px;
   line-height: 1.7;
   color: var(--colors-text);
   font-size: var(--fz-md);
